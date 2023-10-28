@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.staker4wapper.mvc_todolist"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.staker4wapper.mvc_todolist"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
